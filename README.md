@@ -66,7 +66,11 @@ Currently developing [Reostat](https://git.reostat.org/Reostat/Reostat) — a fe
   </tr>
 </table>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/arseniizyk?theme=dark&font=Jomolhari&ext=heatmap)](https://leetcode.com/u/arseniizyk/)
+<p align="center">
+  <a href="https://leetcode.com/u/arseniizyk/">
+    <img src="https://leetcard.jacoblin.cool/arseniizyk?theme=dark&font=Jomolhari&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
