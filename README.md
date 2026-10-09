@@ -74,7 +74,9 @@ Currently developing [Reostat](https://git.reostat.org/Reostat/Reostat) — a fe
 
 ---
 
-[![Email](https://img.shields.io/badge/email-arseniizyk%40gmail.com-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:arseniizyk@gmail.com)
-[![Telegram](https://img.shields.io/badge/telegram-%40donk3d-%232CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/donk3d)
-[![Reostat](https://img.shields.io/badge/git.reostat.org-arseniizyk-%235C5C5C?style=flat&logo=git&logoColor=white)](https://git.reostat.org/arseniizyk)
-[![LeetCode](https://img.shields.io/badge/leetcode-arseniizyk-%23FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/arseniizyk/)
+<p align="center">
+  <a href="mailto:arseniizyk@gmail.com"><img src="https://img.shields.io/badge/email-arseniizyk%40gmail.com-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/donk3d"><img src="https://img.shields.io/badge/telegram-%40donk3d-%232CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://git.reostat.org/arseniizyk"><img src="https://img.shields.io/badge/git.reostat.org-arseniizyk-%235C5C5C?style=flat&logo=git&logoColor=white" alt="Reostat" /></a>
+  <a href="https://leetcode.com/u/arseniizyk/"><img src="https://img.shields.io/badge/leetcode-arseniizyk-%23FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
