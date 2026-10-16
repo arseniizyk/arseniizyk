@@ -17,7 +17,7 @@ Currently developing [Reostat](https://git.reostat.org/Reostat/Reostat) — a fe
 [![Python](https://img.shields.io/badge/python-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
 
-### Backend & Networking
+### Backend
 [![Node.js](https://img.shields.io/badge/node.js-%23339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![gRPC](https://img.shields.io/badge/gRPC-%23244C5A?style=flat&logo=grpc&logoColor=white)](https://grpc.io/)
 [![Protobuf](https://img.shields.io/badge/protobuf-%234285F4?style=flat&logo=google&logoColor=white)](https://protobuf.dev/)
@@ -26,16 +26,16 @@ Currently developing [Reostat](https://git.reostat.org/Reostat/Reostat) — a fe
 [![WebSockets](https://img.shields.io/badge/websockets-%23010101?style=flat&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 [![HTTP / REST](https://img.shields.io/badge/http_%2F_rest-%2302569B?style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
-### Storage & In-Memory
+### Storage
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/redis-%23DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 [![Valkey](https://img.shields.io/badge/valkey-%232A72EC?style=flat&logo=valkey&logoColor=white)](https://valkey.io/)
 
-### Observability & Monitoring
+### Observability
 [![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/grafana-%23F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
 
-### Infrastructure & Orchestration
+### Infrastructure
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/docker-%232496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/linux-%23FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
@@ -53,7 +53,7 @@ Currently developing [Reostat](https://git.reostat.org/Reostat/Reostat) — a fe
 
 ---
 
-### Metrics & Activity
+### Activity
 
 <table>
   <tr>
