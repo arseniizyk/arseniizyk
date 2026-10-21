@@ -12,7 +12,7 @@ Currently developing [Reostat](https://git.reostat.org/Reostat/Reostat) — a fe
 | **[Reostat](https://git.reostat.org/Reostat/Reostat)** | `Go` `CometBFT` `libp2p` `Kafka` `PostgreSQL` | Decentralized federated social network powered by BFT consensus, Kademlia DHT, and event-driven microservices. |
 | **[Foodify](https://github.com/arseniizyk/food-analyser)** | `Go` `Flutter` `Gemini Vision` `PostgreSQL` | AI food safety & ingredient analyser with barcode scanner, multimodal OCR and offline sync. |
 | **[CoCMetaAnalyser](https://github.com/arseniizyk/CoCMetaAnalyser)** | `Go` `React` `Chart.js` `GitHub Actions` | Clash of Clans Legendary League Hero Equipment analytics with automated CI/CD collector. |
-| **[tgplayingnow](https://github.com/arseniizyk/tgplayingnow)** | `Go` `TDLib` `Spotify API` `OAuth2` | Real-time Spotify playback status daemon for Telegram bio with graceful state restoration. |
+| **[spotigram-bio](https://github.com/arseniizyk/spotigram-bio)** | `Go` `TDLib` `Spotify API` `OAuth2` | High-performance Spotify-to-Telegram status synchronizer with QR auth & graceful rollback. |
 | **[DNS Switcher](https://github.com/arseniizyk/dns-switcher)** | `Kotlin` `Jetpack Compose` `VpnService` | Android utility for selective DNS routing, low-latency live ping and Quick Settings Tile. |
 | **[MGKCT Schedule Bot](https://github.com/arseniizyk/mgkct-schedule-bot)** | `Go` `Microservices` `Docker` `Telegram` | Microservices-based college schedule Telegram bot with automated scrapers and notifications. |
 | **[CS2 Market Bot](https://github.com/arseniizyk/cs2-market-bot)** | `Go` `Async Scraping` `REST APIs` | Multi-market CS2 item price tracker and arbitrage monitor across 7 trading platforms. |
