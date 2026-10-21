@@ -9,6 +9,7 @@ Currently developing [Reostat](https://git.reostat.org/Reostat/Reostat) — a fe
 
 | Project | Tech Stack | Description |
 |---|---|---|
+| **[Reostat](https://git.reostat.org/Reostat/Reostat)** | `Go` `CometBFT` `libp2p` `Kafka` `PostgreSQL` | Decentralized federated social network powered by BFT consensus, Kademlia DHT, and event-driven microservices. |
 | **[Foodify](https://github.com/arseniizyk/food-analyser)** | `Go` `Flutter` `Gemini Vision` `PostgreSQL` | AI food safety & ingredient analyser with barcode scanner, multimodal OCR and offline sync. |
 | **[CoCMetaAnalyser](https://github.com/arseniizyk/CoCMetaAnalyser)** | `Go` `React` `Chart.js` `GitHub Actions` | Clash of Clans Legendary League Hero Equipment analytics with automated CI/CD collector. |
 | **[tgplayingnow](https://github.com/arseniizyk/tgplayingnow)** | `Go` `TDLib` `Spotify API` `OAuth2` | Real-time Spotify playback status daemon for Telegram bio with graceful state restoration. |
