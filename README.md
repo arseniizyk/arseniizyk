@@ -9,8 +9,9 @@ Currently developing [Reostat](https://git.reostat.org/Reostat/Reostat) — a fe
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| **[Foodify](https://github.com/arseniizyk/food-analyser)** | `Flutter` `Go` `Gemini Vision` `PostgreSQL` | AI food safety & ingredient analyser with barcode scanner, multimodal OCR and offline sync. |
+| **[Foodify](https://github.com/arseniizyk/food-analyser)** | `Go` `Flutter` `Gemini Vision` `PostgreSQL` | AI food safety & ingredient analyser with barcode scanner, multimodal OCR and offline sync. |
 | **[CoCMetaAnalyser](https://github.com/arseniizyk/CoCMetaAnalyser)** | `Go` `React` `Chart.js` `GitHub Actions` | Clash of Clans Legendary League Hero Equipment analytics with automated CI/CD collector. |
+| **[tgplayingnow](https://github.com/arseniizyk/tgplayingnow)** | `Go` `TDLib` `Spotify API` `OAuth2` | Real-time Spotify playback status daemon for Telegram bio with graceful state restoration. |
 | **[DNS Switcher](https://github.com/arseniizyk/dns-switcher)** | `Kotlin` `Jetpack Compose` `VpnService` | Android utility for selective DNS routing, low-latency live ping and Quick Settings Tile. |
 | **[MGKCT Schedule Bot](https://github.com/arseniizyk/mgkct-schedule-bot)** | `Go` `Microservices` `Docker` `Telegram` | Microservices-based college schedule Telegram bot with automated scrapers and notifications. |
 | **[CS2 Market Bot](https://github.com/arseniizyk/cs2-market-bot)** | `Go` `Async Scraping` `REST APIs` | Multi-market CS2 item price tracker and arbitrage monitor across 7 trading platforms. |
@@ -20,14 +21,14 @@ Currently developing [Reostat](https://git.reostat.org/Reostat/Reostat) — a fe
 
 ### Languages
 [![Go](https://img.shields.io/badge/go-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Dart](https://img.shields.io/badge/dart-%230175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)
 [![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SQL](https://img.shields.io/badge/sql-%23336791?style=flat&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![C++](https://img.shields.io/badge/c++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/python-%233776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Dart](https://img.shields.io/badge/dart-%230175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)
 
 ### Backend
 [![Node.js](https://img.shields.io/badge/node.js-%23339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -55,7 +56,7 @@ Currently developing [Reostat](https://git.reostat.org/Reostat/Reostat) — a fe
 [![GitHub Actions](https://img.shields.io/badge/github_actions-%232088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
 
-### Mobile & Frontend
+### Frontend
 [![Flutter](https://img.shields.io/badge/flutter-%2302569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![React](https://img.shields.io/badge/react-%2320232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Sass / SCSS](https://img.shields.io/badge/sass-%23CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
