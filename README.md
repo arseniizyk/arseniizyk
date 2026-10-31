@@ -3,13 +3,13 @@
 Software Engineer focused on backend architecture, distributed systems, and algorithmic problem-solving.<br/>
 Experienced in full-stack web development (React/TypeScript) and practical systems infrastructure (Docker, Kubernetes, Linux).
 
-Currently developing :
-  - [Reostat](https://git.reostat.org/Reostat/Reostat) — a federated, decentralized social network.
-  - [Foodify](https://github.com/arseniizyk/food-analyser) — 
-  - [MGKCT Schedule Bot](https://github.com/arseniizyk/mgkct-schedule-bot) —
-  - [MGKCT 3D Map](https://github.com/arseniizyk/mgkct-3d) —
-  - [MGKCT-ARM](https://github.com/arseniizyk/mgkct-arm) —
-    
+#### 🔭 Currently Developing
+- **[Reostat](https://git.reostat.org/Reostat/Reostat)** — Federated, decentralized social network.
+- **[Foodify](https://github.com/arseniizyk/food-analyser)** — AI food safety & ingredient analyser.
+- **[MGKCT Schedule Bot](https://github.com/arseniizyk/mgkct-schedule-bot)** — Microservices Telegram bot for college schedules.
+- **[MGKCT 3D](https://github.com/arseniizyk/mgkct-3d)** — Interactive 3D/2D indoor campus navigator ([Live Demo](https://arseniizyk.github.io/mgkct-3d/)).
+- **[MGKCT ARM](https://github.com/arseniizyk/mgkct-arm)** — Educational ERP & document automation platform.
+
 ### 🌟 Featured Projects
 
 | Project | Tech Stack | Description |
@@ -19,6 +19,8 @@ Currently developing :
 | **[CoCMetaAnalyser](https://github.com/arseniizyk/CoCMetaAnalyser)** | `Go` `React` `Chart.js` `GitHub Actions` | Clash of Clans Legendary League Hero Equipment analytics with automated CI/CD collector. |
 | **[spotigram-bio](https://github.com/arseniizyk/spotigram-bio)** | `Go` `TDLib` `Spotify API` `OAuth2` | High-performance Spotify-to-Telegram status synchronizer with QR auth & graceful rollback. |
 | **[DNS Switcher](https://github.com/arseniizyk/dns-switcher)** | `Kotlin` `Jetpack Compose` `VpnService` | Android utility for selective DNS routing, low-latency live ping and Quick Settings Tile. |
+| **[MGKCT 3D](https://github.com/arseniizyk/mgkct-3d)** | `JavaScript` `Three.js` `A* Algorithm` `Tailwind` | Interactive 3D/2D college indoor navigator across 4 buildings and 7 floors with A* pathfinding. ([Demo](https://arseniizyk.github.io/mgkct-3d/)) |
+| **[MGKCT ARM](https://github.com/arseniizyk/mgkct-arm)** | `React` `Node.js` `PostgreSQL` `Docker` `Sequelize` | Educational ERP & document workflow system with automated `.docx` generation, transactional migrations & backups. |
 | **[MGKCT Schedule Bot](https://github.com/arseniizyk/mgkct-schedule-bot)** | `Go` `Microservices` `Docker` `Telegram` | Microservices-based college schedule Telegram bot with automated scrapers and notifications. |
 | **[CS2 Market Bot](https://github.com/arseniizyk/cs2-market-bot)** | `Go` `Async Scraping` `REST APIs` | Multi-market CS2 item price tracker and arbitrage monitor across 7 trading platforms. |
 
@@ -63,8 +65,9 @@ Currently developing :
 [![Nginx](https://img.shields.io/badge/nginx-%23009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
 
 ### Frontend
-[![Flutter](https://img.shields.io/badge/flutter-%2302569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Three.js](https://img.shields.io/badge/three.js-%23000000?style=flat&logo=threedotjs&logoColor=white)](https://threejs.org/)
 [![React](https://img.shields.io/badge/react-%2320232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Flutter](https://img.shields.io/badge/flutter-%2302569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Sass / SCSS](https://img.shields.io/badge/sass-%23CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
