@@ -2,14 +2,14 @@
 
 Software Engineer focused on backend architecture, distributed systems, and algorithmic problem-solving.
 
-#### 🔭 Currently Developing
+#### Currently Developing
 - **[Reostat](https://git.reostat.org/Reostat/Reostat)** — Federated, decentralized social network.
 - **[Foodify](https://github.com/arseniizyk/food-analyser)** — AI food safety & ingredient analyser.
 - **[MGKCT Schedule Bot](https://github.com/arseniizyk/mgkct-schedule-bot)** — Microservices Telegram bot for college schedules.
 - **[MGKCT 3D](https://github.com/arseniizyk/mgkct-3d)** — Interactive 3D/2D indoor campus navigator ([Live Demo](https://arseniizyk.github.io/mgkct-3d/)).
 - **[MGKCT ARM](https://github.com/arseniizyk/mgkct-arm)** — Educational ERP & document automation platform.
 
-### 🌟 Featured Projects
+### Featured Projects
 
 | Project | Tech Stack | Description |
 |---|---|---|
