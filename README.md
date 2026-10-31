@@ -1,7 +1,6 @@
 # Arsenii Zhuk
 
-Software Engineer focused on backend architecture, distributed systems, and algorithmic problem-solving.<br/>
-Experienced in full-stack web development (React/TypeScript) and practical systems infrastructure (Docker, Kubernetes, Linux).
+Software Engineer focused on backend architecture, distributed systems, and algorithmic problem-solving.
 
 #### 🔭 Currently Developing
 - **[Reostat](https://git.reostat.org/Reostat/Reostat)** — Federated, decentralized social network.
@@ -25,7 +24,7 @@ Experienced in full-stack web development (React/TypeScript) and practical syste
 | **[CS2 Market Bot](https://github.com/arseniizyk/cs2-market-bot)** | `Go` `Async Scraping` `REST APIs` | Multi-market CS2 item price tracker and arbitrage monitor across 7 trading platforms. |
 
 <details open>
-  <summary>Tech Stack & Tools</summary>
+  <summary><b>Tech Stack</b></summary>
 
 ### Languages
 [![Go](https://img.shields.io/badge/go-%2300ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
