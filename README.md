@@ -3,8 +3,13 @@
 Software Engineer focused on backend architecture, distributed systems, and algorithmic problem-solving.<br/>
 Experienced in full-stack web development (React/TypeScript) and practical systems infrastructure (Docker, Kubernetes, Linux).
 
-Currently developing [Reostat](https://git.reostat.org/Reostat/Reostat) — a federated, decentralized social network.
-
+Currently developing :
+  - [Reostat](https://git.reostat.org/Reostat/Reostat) — a federated, decentralized social network.
+  - [Foodify](https://github.com/arseniizyk/food-analyser) — 
+  - [MGKCT Schedule Bot](https://github.com/arseniizyk/mgkct-schedule-bot) —
+  - [MGKCT 3D Map](https://github.com/arseniizyk/mgkct-3d) —
+  - [MGKCT-ARM](https://github.com/arseniizyk/mgkct-arm) —
+    
 ### 🌟 Featured Projects
 
 | Project | Tech Stack | Description |
