@@ -7,7 +7,7 @@ Software Engineer focused on backend architecture, distributed systems, and algo
 - **[Foodify](https://github.com/arseniizyk/food-analyser)** — AI food safety & ingredient analyser.
 - **[MGKCT Schedule Bot](https://github.com/arseniizyk/mgkct-schedule-bot)** — Microservices Telegram bot for college schedules.
 - **[MGKCT 3D](https://github.com/arseniizyk/mgkct-3d)** — Interactive 3D/2D indoor campus navigator ([Live Demo](https://arseniizyk.github.io/mgkct-3d/)).
-- **[MGKCT ARM](https://github.com/arseniizyk/mgkct-arm)** — Educational ERP & document automation platform.
+- **[MGKCT ARM](https://github.com/arseniizyk/mgkct-arm)** *(private)* — Educational ERP & document automation platform.
 
 ### Featured Projects
 
@@ -19,7 +19,7 @@ Software Engineer focused on backend architecture, distributed systems, and algo
 | **[spotigram-bio](https://github.com/arseniizyk/spotigram-bio)** | `Go` `TDLib` `Spotify API` `OAuth2` | High-performance Spotify-to-Telegram status synchronizer with QR auth & graceful rollback. |
 | **[DNS Switcher](https://github.com/arseniizyk/dns-switcher)** | `Kotlin` `Jetpack Compose` `VpnService` | Android utility for selective DNS routing, low-latency live ping and Quick Settings Tile. |
 | **[MGKCT 3D](https://github.com/arseniizyk/mgkct-3d)** | `JavaScript` `Three.js` `A* Algorithm` `Tailwind` | Interactive 3D/2D college indoor navigator across 4 buildings and 7 floors with A* pathfinding. ([Demo](https://arseniizyk.github.io/mgkct-3d/)) |
-| **[MGKCT ARM](https://github.com/arseniizyk/mgkct-arm)** | `React` `Node.js` `PostgreSQL` `Docker` `Sequelize` | Educational ERP & document workflow system with automated `.docx` generation, transactional migrations & backups. |
+| **[MGKCT ARM](https://github.com/arseniizyk/mgkct-arm)** *(private)* | `React` `Node.js` `PostgreSQL` `Docker` `Sequelize` | Educational ERP & document workflow system with automated `.docx` generation, transactional migrations & backups. |
 | **[MGKCT Schedule Bot](https://github.com/arseniizyk/mgkct-schedule-bot)** | `Go` `Microservices` `Docker` `Telegram` | Microservices-based college schedule Telegram bot with automated scrapers and notifications. |
 | **[CS2 Market Bot](https://github.com/arseniizyk/cs2-market-bot)** | `Go` `Async Scraping` `REST APIs` | Multi-market CS2 item price tracker and arbitrage monitor across 7 trading platforms. |
 
